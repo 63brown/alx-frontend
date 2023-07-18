@@ -39,6 +39,7 @@ body {
 a[href] {
     color: var(--text-color-#161616);
     text-decoration: none;
+    font-style: italic;
 }
 
 a[href]:visited {
