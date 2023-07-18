@@ -373,8 +373,8 @@
     --section-title-margin: 0;
     --section-title-color:var(--color-black);
   }
-  
-  *{
+
+*{
     box-sizing: border-box;
   }
 
