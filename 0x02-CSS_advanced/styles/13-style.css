@@ -36,9 +36,12 @@ body {
     line-height: var(--line-height-base);
 }
 
-a[href]:visited {
+a[href] {
     color: var(--text-color-#161616);
     text-decoration: none;
+}
+
+a[href]:visited {
     font-style: italic;
 }
 
