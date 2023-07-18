@@ -32,7 +32,7 @@
     --nav-item-font-size: var(var(--font-size-medium));
     --nav-item-letter-spacing: 4%;
     --nav-item-display: inline-block;
-    --nav-item-margin: 0 0 calc(3 * var(var(--font-size-base))) 0;
+    --nav-item-margin: 0 0 calc(3 * var(--font-size-base)) 0;
     --nav-item-link-hover: var(var(--color-primary));
   }
   
