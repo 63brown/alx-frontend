@@ -80,7 +80,7 @@
     text-align: center;
 }
 
-.nav .nav-item{
+.nav-item{
     font-family: var(--nav-item-font-family);
     font-weight: var(--nav-item-font-weight);
     font-size: var(--nav-item-font-size);
@@ -89,12 +89,12 @@
     margin: var(--nav-item-margin);
 }
 
-.nav .nav-link {
+.nav-link {
     display: block;
     padding: var(--font-size-base) var(--font-size-base) var(--font-size-base) var(--font-size-base);
   }
 
-  .nav .nav-link:hover {
+  .nav-link:hover {
     color: var(--nav-item-link-hover);
   }
 
